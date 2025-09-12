@@ -27,6 +27,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 ### 1. Circuit Saga: Venues and Victories
 *Exploring the iconic venues that have shaped Formula 1 history*
 
+![Circuits](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/Circuits00.png?raw=true)
+
 **Features:**
 - **Circuit Statistics Table**: Comprehensive list of circuits with locations and race counts
 - **Global Circuit Map**: Interactive world map showing circuit locations with color-coded race frequency
@@ -39,6 +41,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 
 ### 2. From Grid to Finish, a Rollercoaster of Fortunes: Position Changes at the [Race]
 *Analyzing the dramatic position battles within individual races*
+
+![Lap Places](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/PlacesbyLap00.png?raw=true)
 
 **Features:**
 - **Race Selection Dropdown**: Choose any race from the dataset
@@ -55,6 +59,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 ### 3. Mechanical Misfortune: Technical Failures Through the Years (Absolute)
 *Examining the absolute frequency of technical failures over F1 history*
 
+![Failures (Absolute)](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/MechanicalFailuresAbs00.png?raw=true)
+
 **Features:**
 - **Annual Failure Trends**: Line graph showing total mechanical failures by year
 - **Failure Type Analysis**: Paged line graphs breaking down specific failure categories
@@ -70,6 +76,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 ### 4. Mechanical Misfortune: Technical Failure Rates Through the Years (Rates)
 *Analyzing normalized failure rates accounting for grid size variations*
 
+![Failures (Rates)](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/MechanicalFailuresRate00.png?raw=true)
+
 **Features:**
 - **Failure Rate Trends**: Line graph showing percentage of cars ending races due to mechanical issues
 - **Rate by Failure Type**: Paged analysis of specific failure category rates
@@ -83,6 +91,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 
 ### 5. Mechanical Misfortune: Technical Failure Rates Through the Eras (Era)
 *Exploring reliability patterns across major F1 technical regulation periods*
+
+![Failures (Eras)](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/MechanicalFailuresEra00.png?raw=true)
 
 **Features:**
 - **Era-Based Analysis**: Combined failure rates and absolute counts by regulatory period
@@ -108,6 +118,8 @@ This project utilizes the **Formula 1 World Championship (1950-2024)** dataset f
 
 ### 6. The Breakdown Breakdown: Constructor Reliability Through the Years
 *Comprehensive reliability comparison across teams and time periods*
+
+![Reliability](https://github.com/DVHeld/F1_Stats_Tableau/blob/main/img/ReliabilitybyYear00.png)
 
 **Features:**
 - **Reliability Heat Map**: Matrix visualization with constructors (rows) vs. years (columns)
