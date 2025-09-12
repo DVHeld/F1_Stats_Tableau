@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-F1 Stats is an interactive Tableau dashboard suite that provides comprehensive insights into Formula 1 racing data spanning from 1950 to 2020. This project transforms raw racing data into compelling visual narratives, exploring everything from circuit histories and race dynamics to mechanical reliability patterns across different regulatory eras.
+F1 Stats is an interactive Tableau dashboard suite that provides comprehensive insights into Formula 1 racing data spanning from 1950 to 2024. This project transforms raw racing data into compelling visual narratives, exploring everything from circuit histories and race dynamics to mechanical reliability patterns across different regulatory eras.
 
 The project consists of seven specialized dashboards, each focusing on different aspects of Formula 1 analytics, designed for racing enthusiasts, data analysts, and anyone interested in the technical and competitive evolution of motorsport's premier championship.
 
